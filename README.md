@@ -55,15 +55,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HozaifaMoustafa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HozaifaMoustafa&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=FFFFFF&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=1800" alt="GitHub Stats" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HozaifaMoustafa&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
+<img src="https://streak-stats.demolab.com?user=HozaifaMoustafa&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D9FF&amp;ring=00D9FF&amp;fire=FF6B6B&amp;currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HozaifaMoustafa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HozaifaMoustafa&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=FFFFFF&amp;langs_count=8&amp;cache_seconds=1800" alt="Top Languages" width="48%" />
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HozaifaMoustafa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HozaifaMoustafa&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=00D9FF&amp;point=FFFFFF)
 
 </div>
 
