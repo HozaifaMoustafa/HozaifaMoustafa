@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hozaifa+Moustafa+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Full-Stack+Data+Scientist+%7C+Problem+Solver;Always+learning+new+things+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hozaifa+Moustafa+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Full-Stack+Data+Scientist;Always+learning+new+things+%F0%9F%9A%80)
 
 <img src="https://komarev.com/ghpvc/?username=HozaifaMoustafa&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
@@ -10,15 +10,11 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://avatars.githubusercontent.com/u/150549833?v=4" width="150" height="150" style="border-radius: 50%; border: 3px solid #00D9FF;" />
-
 - 💻 Passionate about building impactful software solutions
 - 🔭 Currently working on exciting projects
 - 🌱 Always learning and exploring new technologies
 - 💡 Love solving complex problems with clean code
 - 🤝 Open to collaboration on interesting projects
-
-<br clear="right"/>
 
 ---
 
